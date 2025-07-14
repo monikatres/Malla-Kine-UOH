@@ -50,3 +50,37 @@ h1 {
 .ramo:last-child {
   border-bottom: none;
 }
+
+.ramo:hover {
+  background-color: rgba(0, 123, 255, 0.1);
+}
+
+.ramo.aprobado {
+  background-color: #d4edda;
+  color: #155724;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+button {
+  background: #ff4d4d;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  margin: 20px auto;
+  display: block;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #cc0000;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
