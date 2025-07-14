@@ -1,1 +1,195 @@
+[
+  {
+    "nombre": "Bases matemáticas",
+    "semestre": 1
+  },
+  {
+    "nombre": "Anatomía 1",
+    "semestre": 1
+  },
+  {
+    "nombre": "Química general",
+    "semestre": 1
+  },
+  {
+    "nombre": "Biología y genética",
+    "semestre": 1
+  },
+  {
+    "nombre": "Introducción a la kinesiología",
+    "semestre": 1
+  },
+  {
+    "nombre": "Sociedad y salud 1",
+    "semestre": 1
+  },
+  {
+    "nombre": "Biofísica",
+    "semestre": 2
+  },
+  {
+    "nombre": "Anatomía 2",
+    "semestre": 2
+  },
+  {
+    "nombre": "Bioquímica general",
+    "semestre": 2
+  },
+  {
+    "nombre": "Kinesiología funcional y preventiva",
+    "semestre": 2
+  },
+  {
+    "nombre": "Ética y bioética",
+    "semestre": 2
+  },
+  {
+    "nombre": "Sociedad y salud 2",
+    "semestre": 2
+  },
+  {
+    "nombre": "Biomecánica y fisiología articular",
+    "semestre": 3
+  },
+  {
+    "nombre": "Neurofisiología",
+    "semestre": 3
+  },
+  {
+    "nombre": "Fisiología de sistemas",
+    "semestre": 3
+  },
+  {
+    "nombre": "Intervención kinésica de baja complejidad",
+    "semestre": 3
+  },
+  {
+    "nombre": "Psicología general y evolutiva",
+    "semestre": 3
+  },
+  {
+    "nombre": "Sociedad y salud 3",
+    "semestre": 3
+  },
+  {
+    "nombre": "Análisis del movimiento humano y control motor",
+    "semestre": 4
+  },
+  {
+    "nombre": "Neurobiología del desarrollo",
+    "semestre": 4
+  },
+  {
+    "nombre": "Fisiopatología",
+    "semestre": 4
+  },
+  {
+    "nombre": "Intervención kinésica de moderada complejidad",
+    "semestre": 4
+  },
+  {
+    "nombre": "Salud pública",
+    "semestre": 4
+  },
+  {
+    "nombre": "Estados de la funcionalidad en pediatría",
+    "semestre": 5
+  },
+  {
+    "nombre": "Fisiología del ejercicio",
+    "semestre": 5
+  },
+  {
+    "nombre": "Desempeño profesional tutorado 1",
+    "semestre": 5
+  },
+  {
+    "nombre": "Bioestadística",
+    "semestre": 5
+  },
+  {
+    "nombre": "Gestión y administración 1",
+    "semestre": 5
+  },
+  {
+    "nombre": "Estados de la funcionalidad en persona mayor",
+    "semestre": 6
+  },
+  {
+    "nombre": "Disfunciones musculoesqueléticas infantiles",
+    "semestre": 6
+  },
+  {
+    "nombre": "Farmacología",
+    "semestre": 6
+  },
+  {
+    "nombre": "Desempeño profesional tutorado 2",
+    "semestre": 6
+  },
+  {
+    "nombre": "Gestión y administración 2",
+    "semestre": 6
+  },
+  {
+    "nombre": "Agentes físicos en rehabilitación y funcionalidad",
+    "semestre": 7
+  },
+  {
+    "nombre": "Disfunciones musculoesqueléticas adultas",
+    "semestre": 7
+  },
+  {
+    "nombre": "Casos clínicos 1",
+    "semestre": 7
+  },
+  {
+    "nombre": "Desempeño profesional supervisado 1",
+    "semestre": 7
+  },
+  {
+    "nombre": "Ejercicio terapéutico en disfunciones del movimiento",
+    "semestre": 8
+  },
+  {
+    "nombre": "Disfunciones neurológicas",
+    "semestre": 8
+  },
+  {
+    "nombre": "Disfunciones cardiopulmonares",
+    "semestre": 8
+  },
+  {
+    "nombre": "Casos clínicos 2",
+    "semestre": 8
+  },
+  {
+    "nombre": "Desempeño profesional supervisado 2",
+    "semestre": 8
+  },
+  {
+    "nombre": "Internado neurorrehabilitación adulto e infantil",
+    "semestre": 9
+  },
+  {
+    "nombre": "Integración profesional 1",
+    "semestre": 9
+  },
+  {
+    "nombre": "Internado atención primaria en salud",
+    "semestre": 9
+  },
+  {
+    "nombre": "Internado cardiorrespiratorio",
+    "semestre": 9
+  },
+  {
+    "nombre": "Internado musculoesquelético agudo y crónico",
+    "semestre": 9
+  },
+  {
+    "nombre": "Integración profesional 2",
+    "semestre": 10
+  }
+]
 
