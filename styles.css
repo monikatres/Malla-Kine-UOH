@@ -1,1 +1,40 @@
+body {
+  font-family: sans-serif;
+  background: #f2f2f2;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.semestre {
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.semestre h2 {
+  margin-top: 0;
+  color: #007bff;
+}
+
+.ramo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.ramo:last-child {
+  border-bottom: none;
+}
+
+.ramo.aprobado {
+  background: #d4edda;
+}
 
